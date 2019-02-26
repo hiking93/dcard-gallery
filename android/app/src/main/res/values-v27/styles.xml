@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<style name="BaseAppTheme" parent="@android:style/Theme.Black.NoTitleBar">
+		<item name="android:navigationBarColor">#fafafa</item>
+		<item name="android:navigationBarDividerColor">#dedede</item>
+	</style>
+
+</resources>
